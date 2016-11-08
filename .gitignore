@@ -1,0 +1,9 @@
+# ignore
+.DS_Store
+*.pyc
+.pydev*
+.idea
+_build
+_static
+_templates
+logs
